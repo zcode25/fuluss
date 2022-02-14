@@ -9,9 +9,6 @@
     <a href="https://fuluss.rf.gd">
         <img src="https://img.shields.io/badge/version-fuluss%20v1.1.0-blue"/>
     </a>
-    <a href="https://github.com/zcode25/fuluss">
-        <img src="https://img.shields.io/github/stars/zcode25/fuluss?color=important" />
-    </a>
 </div>
     
 <div align="center">
