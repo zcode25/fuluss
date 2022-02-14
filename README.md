@@ -35,11 +35,11 @@
 ### Installation
 - Open the XAMPP application, then run the Apache and MySQL modules.
 - Open the `/htdocs` folder.
-- Open Git Bash, then run `git clone https://github.com/zcode25/e-shop.git`.
+- Open Git Bash, then run `git clone https://github.com/zcode25/fuluss.git`.
 - Open `http://localhost/phpmyadmin` with your browser.
-- Create a database with the name `e-shop2`.
-- Import file `/database/e-shop2` into database.
-- Open `http://localhost/e-shop` with your browser to see the result.
+- Create a database with the name `budget_tracker`.
+- Import file `/database/budget_tracker.sql` into database.
+- Open `http://localhost/fuluss` with your browser to see the result.
 
 ## Contribute
 Please contribute! Issues and pull requests are welcome. Thank you for your help improving the e-shop software!
